@@ -13,8 +13,8 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     夜明记
-zhihu_username:     Li.XX
+weibo_username:     LxxDawn
+zhihu_username:     dawnrec
 github_username:    dawnrec
 # twitter_username:   huxpro
 #facebook_username:  huxpro
