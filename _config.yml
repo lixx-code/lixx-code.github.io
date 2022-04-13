@@ -14,6 +14,7 @@ future: true
 # SNS settings
 RSS: false
 weibo_username:     LxxDawn
+bilibili_username:  23822315
 zhihu_username:     dawnrec
 github_username:    dawnrec
 # twitter_username:   huxpro
