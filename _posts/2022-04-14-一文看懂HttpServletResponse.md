@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2022-04-14-一文看懂HttpServletResponse"
+title: "一文看懂HttpServletResponse"
 date: 2022-04-14
 author: "li.xx"
 tags: 
