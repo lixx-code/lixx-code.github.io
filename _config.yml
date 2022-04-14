@@ -104,6 +104,10 @@ page-mathjax: false
 # Friends
 friends: [
     {
+        title: "网道 - 互联网开发文档",
+        href: "https://wangdoc.com/"
+    }
+    # {
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
@@ -130,5 +134,5 @@ friends: [
     # },{
     #     title: "尹峰以为",
     #     href: "http://ingf.github.io/"
-    }
+    # }
 ]
