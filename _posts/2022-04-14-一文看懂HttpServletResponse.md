@@ -14,7 +14,7 @@ Web服务器收到客户端的http请求，会针对每一次请求，分别创�
 
 ### 一，HttpServletResponse对象介绍
 
-![img](https:////upload-images.jianshu.io/upload_images/5824016-59d786bc8f7eda6e.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/1048/format/webp)
+![img](https://upload-images.jianshu.io/upload_images/5824016-59d786bc8f7eda6e.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/1048/format/webp)
 
 1.jpg
 
@@ -120,7 +120,7 @@ public class HelloResponse extends HttpServlet{
 
 运行结果如下：
 
-![img](https:////upload-images.jianshu.io/upload_images/5824016-eb303a80af96b952.png?imageMogr2/auto-orient/strip|imageView2/2/w/475/format/webp)
+![img](https://upload-images.jianshu.io/upload_images/5824016-eb303a80af96b952.png?imageMogr2/auto-orient/strip|imageView2/2/w/475/format/webp)
 
 image
 
@@ -166,7 +166,7 @@ public class PrintWriterResponse extends HttpServlet{
 
 运行结果如下：
 
-![img](https:////upload-images.jianshu.io/upload_images/5824016-f7bc8d7a287359ad.png?imageMogr2/auto-orient/strip|imageView2/2/w/480/format/webp)
+![img](https://upload-images.jianshu.io/upload_images/5824016-f7bc8d7a287359ad.png?imageMogr2/auto-orient/strip|imageView2/2/w/480/format/webp)
 
 image
 
@@ -226,7 +226,7 @@ public class FileDownloadResponse extends HttpServlet{
 }
 ```
 
-![img](https:////upload-images.jianshu.io/upload_images/5824016-e0e3e3e8427e3a39.png?imageMogr2/auto-orient/strip|imageView2/2/w/480/format/webp)
+![img](https://upload-images.jianshu.io/upload_images/5824016-e0e3e3e8427e3a39.png?imageMogr2/auto-orient/strip|imageView2/2/w/480/format/webp)
 
 image
 
@@ -359,7 +359,7 @@ public class ResponseDemo4 extends HttpServlet {
 
 运行结果如下：
 
-![img](https:////upload-images.jianshu.io/upload_images/5824016-409dbe79d1a078f8.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/763/format/webp)
+![img](https://upload-images.jianshu.io/upload_images/5824016-409dbe79d1a078f8.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/763/format/webp)
 
 2.jpg
 
@@ -413,7 +413,7 @@ public class RedirectResponse extends HttpServlet{
 
 访问：[http://localhost:8081/ServletDemo/RedirectResponse.html](https://links.jianshu.com/go?to=http%3A%2F%2Flocalhost%3A8081%2FServletDemo%2FRedirectResponse.html)，浏览器会跳转到：[http://localhost:8081/ServletDemo/index.jsp](https://links.jianshu.com/go?to=http%3A%2F%2Flocalhost%3A8081%2FServletDemo%2Findex.jsp)
 
-![img](https:////upload-images.jianshu.io/upload_images/5824016-dc96c3faac7987b4.png?imageMogr2/auto-orient/strip|imageView2/2/w/387/format/webp)
+![img](https://upload-images.jianshu.io/upload_images/5824016-dc96c3faac7987b4.png?imageMogr2/auto-orient/strip|imageView2/2/w/387/format/webp)
 
 image
 
