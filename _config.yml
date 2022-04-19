@@ -16,7 +16,7 @@ RSS: false
 weibo_username:     LxxDawn
 bilibili_username:  23822315
 zhihu_username:     dawnrec
-github_username:    dawnrec
+github_username:    lixx-code
 # twitter_username:   huxpro
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
@@ -80,7 +80,7 @@ ga_domain: lixiaoxu.cn
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "李晓旭，迷茫中前进吧！ <br> Li.XX, Go!"
-sidebar-avatar: https://github.com/dawnrec.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://github.com/lixx-code.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -106,11 +106,11 @@ friends: [
     {
         title: "网道 - 互联网开发文档",
         href: "https://wangdoc.com/"
+    },{
+        title: "我家梦梦",
+        href: "http://imxixi.cn/"
     }
-    # {
-    #     title: "Su",
-    #     href: "http://su.gallery/"
-    # },{
+    # ,{
     #     title: "乱序（Midare）",
     #     href: "http://mida.re/"
     # },{
