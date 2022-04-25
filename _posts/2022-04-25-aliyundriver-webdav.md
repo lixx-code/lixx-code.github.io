@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "RaiDrive配置aliyundrive-webdav，实现阿里云盘本地访问"
 subtitle: "RaiDrive配置aliyundrive-webdav，实现阿里云盘本地访问"
 date: 2022-4-25 09:58:47
 author: "li.xx"
@@ -10,33 +10,9 @@ tags:
 
 ## 参考GitHub项目
 
-### [messense](https://github.com/messense)/**[aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav)**
+[messense](https://github.com/messense)/[aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav)
 
-### [gylang](https://github.com/gylang)/**[aliyundriver-webdav](https://github.com/gylang/aliyundriver-webdav)**
-
-#### 介绍
-
-{**阿里云盘/本地挂载网络盘/WebDAV/win软件/界面**}
-
-#### 软件架构
-
-https://fyne.io/fyne/v2 v2.1.2 ui框架
-
-https://github.com/getlantern/systray 任务栏(win10 bug不少 弃用)
-
-https://github.com/gookit/goutil (工具类)
-
-https://github.com/messense/aliyundrive-webdav (一个rust写的webdav)
-
-ui框架加载失败的后补方案
-
-https://cn.vuejs.org/index.html (vue.js)
-
-https://jquery.com/ (jquery)
-
-https://getbootstrap.com/ (bootstrap)
-
-## 
+[gylang](https://github.com/gylang)/[aliyundriver-webdav](https://github.com/gylang/aliyundriver-webdav)
 
 #### 安装教程(界面存在一定偏差)
 
