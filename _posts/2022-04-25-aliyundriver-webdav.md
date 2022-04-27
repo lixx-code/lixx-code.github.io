@@ -73,3 +73,5 @@ tags:
 # 查看是否生效
 
 ![image-20220107112534270](https://li-xiaoxu.oss-cn-beijing.aliyuncs.com/blog/image-20220107112534270.png)
+
+MAC参考：
