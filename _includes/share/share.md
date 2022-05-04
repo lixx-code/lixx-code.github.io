@@ -4,11 +4,11 @@
 
 ### 💿「华晨宇 歌手全纪录（2020）」（分P、合集）
 
-[阿里云盘链接](https://www.aliyundrive.com/s/M9JNXdQyVxd) 提取码: 7ih0 
+[阿里云盘链接](https://www.aliyundrive.com/s/M9JNXdQyVxd) 提取码: 7ih0
 
 ### 💿「华晨宇 歌手全纪录（2018）」
 
-[阿里云盘链接](https://www.aliyundrive.com/s/gbH8uAz4pj5) 提取码: r24r 
+[阿里云盘链接](https://www.aliyundrive.com/s/gbH8uAz4pj5) 提取码: r24r
 
 ### 💿「【纯享】李健《沉默是金》《如果我现在》」
 
