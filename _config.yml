@@ -1,8 +1,8 @@
 # Site settings
-title: LiXX Blog
-SEOTitle: 李晓旭的博客 | LiXX Blog
+title: LiXiaoxu
+SEOTitle: 李晓旭的博客 
 header-img: img/bj.jpg
-email: xx.li@hotmail.com
+email: li.xiaoxu@hotmail.com
 description: "Hello, 我是李晓旭；想来想去，我一定要留下点什么。"
 keyword: "李晓旭, LiXX李晓旭, LiXX, 博客, 个人网站, 互联网, 后端, JAVA"
 url: "https://lixiaoxu.cn"              # your host, for absolute URL
@@ -79,7 +79,7 @@ ga_domain: lixiaoxu.cn
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "李晓旭，迷茫中前进吧！ <br> Li.XX, Go!"
+sidebar-about-description: "李晓旭，迷茫中前进吧！ <br> <a href="mailto:li.xiaoxu@hotmail.com">li.xiaoxu@hotmail.com</a>"
 sidebar-avatar: https://github.com/lixx-code.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
