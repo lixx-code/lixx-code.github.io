@@ -80,7 +80,7 @@ ga_domain: lixiaoxu.cn
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "李晓旭，迷茫中前进吧！ <br> li.xiaoxu@hotmail.com"
-sidebar-avatar: https://github.com/lixx-code.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://oss.lixiaoxu.cn/blog/35676113.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
