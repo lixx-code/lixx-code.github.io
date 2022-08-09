@@ -18,7 +18,7 @@ Jenkins，原名 Hudson，2011 年改为现在的名字。它是一个开源的�
 
 官方网站
 
-https://www.jenkins.io/
+[https://www.jenkins.io/](https://www.jenkins.io/)
 
 
 
@@ -28,19 +28,19 @@ https://www.jenkins.io/
 
 ## GitLab安装使用
 
-官方网站：https://about.gitlab.com/
+官方网站：[https://about.gitlab.com/](https://about.gitlab.com/)
 
 安装所需最小配置
 
 内存至少4G
 
-https://docs.gitlab.cn/jh/install/requirements.html
+[https://docs.gitlab.cn/jh/install/requirements.html](https://docs.gitlab.cn/jh/install/requirements.html)
 
 
 
 ### 在ssh下安装
 
-官方安装文档：https://gitlab.cn/install/?version=ce
+官方安装文档：[https://gitlab.cn/install/?version=ce](https://gitlab.cn/install/?version=ce)
 
 #### 1 安装依赖
 
@@ -79,7 +79,7 @@ gitlab-ctl tail                   # 查看日志；
 
 ### 在docker下安装
 
-https://docs.gitlab.cn/jh/install/docker.html
+[https://docs.gitlab.cn/jh/install/docker.html](https://docs.gitlab.cn/jh/install/docker.html)
 
 安装所需最小配置
 
@@ -165,7 +165,7 @@ docker exec -it  gitlab /bin/bash
 
 #### 访问
 
-http://192.168.44.101
+[http://192.168.44.101](http://192.168.44.101)
 
 当首次运行出现502错误的时候排查两个原因
 
@@ -188,7 +188,7 @@ cat /etc/gitlab/initial_root_password
 
 官方文档介绍非常详细
 
-https://www.jenkins.io
+[https://www.jenkins.io](https://www.jenkins.io)
 
 安装需求
 
@@ -249,7 +249,7 @@ This may also be found at: /root/.jenkins/secrets/initialAdminPassword
 
 官网
 
-https://maven.apache.org/
+[https://maven.apache.org/](https://maven.apache.org/)
 
 下载后复制到Jenkins所在服务器解压缩即可
 
@@ -722,7 +722,7 @@ fi
 
 标准cron
 
-https://crontab.guru
+[https://crontab.guru](https://crontab.guru)
 
 Jenkins cron不是标准的cron表达式
 
